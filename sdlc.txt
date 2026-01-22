@@ -1,0 +1,31 @@
+SOFTWARE DEVELOPMENT LIFE CYCLE (SDLC)
+
+PROJECT TITLE:
+Library Book Management System 
+
+COURSE:
+COMPUTER SCIENCE
+
+1. PLANNING PHASE
+
+The Library Book Management System was planned to provide a simple digital solution for managing library book records. The goal of the system is to reduce the use of manual record keeping and make it easier to store and view book information using a computer-based system developed in Python.
+
+
+2. REQUIREMENTS ANALYSIS PHASE
+
+This phase identifies what the system is expected to do.
+
+Functional Requirements:
+- The system shall allow users to add a book title.
+- The system shall allow users to add an author name.
+- The system shall display all added books.
+- The system shall allow users to exit the application.
+
+Non-Functional Requirements:
+- The system shall be easy to use.
+- The system shall run on any computer with Python installed.
+- The system shall respond quickly to user input.
+
+3. SYSTEM DESIGN PHASE
+
+The system was designed as a console-based Python application. A menu-driven interface was used to allow users interact with the system. Book records are stored temporarily using a list data structure. Functions were used to separate different operations such as adding books and viewi
